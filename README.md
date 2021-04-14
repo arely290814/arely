@@ -1,1 +1,1 @@
-# arely
+# arely.github.io
